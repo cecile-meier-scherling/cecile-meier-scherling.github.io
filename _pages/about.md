@@ -20,10 +20,14 @@ I have over seven years of research training, advised by:
 - Dr. Mary L. Gray ([Microsoft Research](https://marylgray.org/))
 - Dr. Franziska Michor ([Department of Data Science, Dana-Farber Cancer Institute](http://michorlab.dfci.harvard.edu/))
 - Dr. Simona Cristea ([Department of Data Science, Dana-Farber Cancer Institute](https://labs.dana-farber.org/aguirrelab/people/simona-cristea-phd))
-I graduated from Boston University's College of Engineering with a Bachelor of Science in Biomedical Engineering in 2022 and a concentration in machine learning. There, my senior thesis was awarded the "Societal Impact Award". I started my PhD in Computational Biology at Brown University in 2022, advised by Dr. Lorin Crawford and Jeffrey Bailey.
+
+I graduated from Boston University's College of Engineering with a Bachelor of Science in Biomedical Engineering in 2022 and a concentration in machine learning. There, my senior thesis was awarded the "Societal Impact Award". I started my PhD in Computational Biology at Brown University in 2022, advised by [Dr. Lorin Crawford](http://www.lcrawlab.com/) and [Dr. Jeffrey Bailey](https://baileylab.org/). During the summer of 2025, I was a Research Intern at Microsoft Research New England working with [Dr. Lorin Crawford](http://www.lcrawlab.com/), [Dr. Ashley Conard](https://www.microsoft.com/en-us/research/people/ashleyconard/) and [Dr. Mary L. Gray](https://marylgray.org/).
 
 --- 
 # Key research projects
+
+## A Statistical and Machine Learning Approach to Investigating Unmapped Regions of the Malaria Parasite Genome
+While the malaria parasite's genome (*Plasmodium falciparum*) shows limited overall genetic variation, much of it is concentrated in highly dynamic subtelomeric regions. These regions encode genes that help the parasite evade human immunity, making them crucial for its survival. I am developing an AI-driven framework that leverages statistical methods and Variational Autoencoders to analyze these challenging genomic regions. This approach aims to uncover their role in shaping parasite population structure and identify shared genetic variants across populations. Insights from this research could improve our understanding of malaria progression and guide the development of novel drug targets.
 
 ## Bayesian Mixed-Effects Modeling for Drug-Resistance Forecasting
 Built a scalable, interpretable Bayesian modeling pipeline to estimate and predict the spatial spread and selection of drug-resistance mutations using genomic surveillance data collected across regions and time. The framework leverages partial pooling and hierarchical structure to handle sparse and noisy observations while producing calibrated uncertainty estimates suitable for downstream decision support.
@@ -34,9 +38,6 @@ Find more information in the [published paper in Lancet Microbe](https://www.the
 
 ## A Statistical and Machine Learning Approach to Investigating Unmapped Regions of the Malaria Parasite Genome
 While the malaria parasite's genome (*Plasmodium falciparum*) shows limited overall genetic variation, much of it is concentrated in highly dynamic subtelomeric regions. These regions encode genes that help the parasite evade human immunity, making them crucial for its survival. I am developing an AI-driven framework that leverages statistical methods and Variational Autoencoders to analyze these challenging genomic regions. This approach aims to uncover their role in shaping parasite population structure and identify shared genetic variants across populations. Insights from this research could improve our understanding of malaria progression and guide the development of novel drug targets.
-
-## A Mathematical Approach to Understanding the Role of Human Mobility in the Spread of Antimalarial Drug Resistance
-Resistance to Artemisinin Combination Therapies (ACTs) is spreading in malaria-endemic regions, driven by parasites with K13 mutations. I am developing a Bayesian model to estimate the movement of ACT-resistant infections between regions via humans and mosquitoes. By integrating mutation prevalence and selection dynamics, this work identifies high-risk regions and predicts how resistance spreads via mobility. These insights will guide public health strategies to combat drug-resistant malaria and improve global intervention efforts.
 
 ## Pancancer evolutionary model analyzing scRNAseq data
 While at Dana-Farber, I developed an evolutionary modeling framework aimed at characterizing the progression of cancer across various tumor types. This project focused on analyzing copy number variations from single-cell RNA sequencing data to estimate distinct evolutionary modes in tumors. By applying machine learning techniques, the model identified patterns of clonal evolution and adaptive mechanisms used by cancer cells, providing valuable insights into tumor heterogeneity. The findings contributed to a better understanding of how tumors evolve over time and respond to different treatment pressures.
