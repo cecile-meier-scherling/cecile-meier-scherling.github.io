@@ -10,13 +10,17 @@ redirect_from:
 
 # About me
 
-I am a PhD student in Computational Biology at the [Center for Computational Molecular Biology at Brown](https://ccmb.brown.edu) advised by 
-[Lorin Crawford, Ph.D.](http://www.lcrawlab.com/) and [Jeffrey Bailey, Ph.D, MD](https://baileylab.org/). My research interests are broadly 
-at the **intersection of computational modeling, computer science, statistics, and biology**.  Specifically, I am interested in 
-**developing and applying machine learning, deep learning and statistical methods to interpret complex and high-dimensional biological data** to drive innovations in biomedical research.My work emphasizes building scalable models to analyze complex omics and electronic health record data, with applications in cancer evolution, drug resistance, rare diseases and infectious disease. 
+I am a PhD candidate in Computational Biology at the [Center for Computational Molecular Biology at Brown](https://ccmb.brown.edu) specializing in the development of artificial intelligence (AI) models for complex biomedical data. My work focuses on integrating high-dimensional omics and clinical data to address real-world problems such as drug resistance, cancer evolution, and infectious disease dynamics. I collaborate closely with domain experts to translate biological questions into robust AI systems that produce actionable insights for biotechnology and public-health applications. 
 
-Collaborating alongside leading experts, I contribute to impactful research combining AI with real-world genomics datasets, enabling actionable insights for public health and biotechnology. With over four years of experience in computational biology, I am committed to advancing data-driven discovery in precision medicine and translational science.
-
+## Education
+I have over seven years of research training, advised by:
+- Dr. Lorin Crawford ([Microsoft Research] (http://www.lcrawlab.com/) and Brown University)
+- Dr. Jeffrey Bailey ([Center for Computational Biology, Brown University](https://baileylab.org/)).
+- Dr. Ashley Conard ([Microsoft Research](https://www.microsoft.com/en-us/research/people/ashleyconard/))
+- Dr. Mary L. Gray ([Microsoft Research](https://marylgray.org/))
+- Dr. Franziska Michor ([Department of Data Science, Dana-Farber Cancer Institute](http://michorlab.dfci.harvard.edu/))
+- Dr. Simona Cristea ([Department of Data Science, Dana-Farber Cancer Institute](https://labs.dana-farber.org/aguirrelab/people/simona-cristea-phd))
+I graduated from Boston University's College of Engineering with a Bachelor of Science in Biomedical Engineering in 2022 and a concentration in machine learning. There, my senior thesis was awarded the "Societal Impact Award". I started my PhD in Computational Biology at Brown University in 2022, advised by Dr. Lorin Crawford and Jeffrey Bailey.
 
 --- 
 # Key research projects
