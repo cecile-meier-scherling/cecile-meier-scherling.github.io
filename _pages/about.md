@@ -14,7 +14,7 @@ I am a PhD candidate in Computational Biology at the [Center for Computational M
 
 ## Education
 I have over seven years of research training, advised by:
-- Dr. Lorin Crawford ([Microsoft Research] (http://www.lcrawlab.com/) and Brown University)
+- Dr. Lorin Crawford ([Microsoft Research](http://www.lcrawlab.com/) and Brown University)
 - Dr. Jeffrey Bailey ([Center for Computational Biology, Brown University](https://baileylab.org/)).
 - Dr. Ashley Conard ([Microsoft Research](https://www.microsoft.com/en-us/research/people/ashleyconard/))
 - Dr. Mary L. Gray ([Microsoft Research](https://marylgray.org/))
