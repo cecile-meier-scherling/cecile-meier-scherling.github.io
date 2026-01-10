@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Publications
 Co-first author: *, Corresponding author: ‡‡
 
 ## Peer-Reviewed Manuscripts
