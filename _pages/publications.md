@@ -7,7 +7,7 @@ author_profile: true
 # Publications
 Co-first author: *, Corresponding author: &ddagger
 
-## Peer-reviewed Manuscripts
+## Peer-Reviewed Manuscripts
 - A. M. Wong*, **C. P.G. Meier-Scherling***, L. Crawford&ddagger. _Characterizing Clinical Toxicity in Cancer Combination Therapies_. \textit{Accepted at Bioinformatics}, 2024. DOI: [10.1101/2025.04.13.648641](https://doi.org/10.1101/2025.04.13.648641)
 - J. Juliano&ddagger, **C. P.G. Meier-Scherling**, N. Wensman Young, G. A. Tollefson, S. V. Connelly, J. B. Parr, M. Conrad, J. M. Sadler, C. M. Hennelly, A. Assefa, L. C. Okell, A. A. Fola, K. Niaré, J. Marglous, K. Carey-Ewend, R. Kyong-Shin, I. Gerdes Gyuricza, G. Cuomo-Dannenburg, S. Ruybal-Pesántez, O. Watson, R. Verity, J. Bailey&ddagger. Towards setting minimum and optimal data to report for malaria molecular surveillance (MMS) with targeted sequencing: The “What” and the “Why”. Am J Trop Med Hyg, 2025. DOI: [10.4269/ajtmh.25-0147](https://doi.org/10.4269/ajtmh.25-0147)
 - **C. P.G. Meier-Scherling**, O. Watson, V. Asua, I. Ghinai, T. Katairo, S. Garg, M. Conrad, P. Rosenthal, L. Okell, J. Bailey &ddagger. Selection of Plasmodium falciparum kelch13 mutations in Uganda in comparison with Southeast Asia: A modelling study. _The Lancet Microbe_, 2024. DOI: [10.1016/j.lanmic.2024.101027](https://doi.org/10.1016/j.lanmic.2024.101027)
