@@ -18,6 +18,8 @@ I have over seven years of research training, advised by:
 - Dr. Lorin Crawford ([Microsoft Research](http://www.lcrawlab.com/) and Brown University)
 - Dr. Jeffrey Bailey ([Center for Computational Biology, Brown University](https://baileylab.org/)).
 - Dr. Ashley Conard ([Microsoft Research](https://www.microsoft.com/en-us/research/people/ashleyconard/))
+- Dr. Robert (Bob) Verity ([Imperial College London] (https://profiles.imperial.ac.uk/r.verity))
+- Dr. Oliver James (OJ) Watson ([Imperial College London] (https://www.ojwatson.co.uk/))
 - Dr. Mary L. Gray ([Microsoft Research](https://marylgray.org/))
 - Dr. Franziska Michor ([Department of Data Science, Dana-Farber Cancer Institute](http://michorlab.dfci.harvard.edu/))
 - Dr. Simona Cristea ([Department of Data Science, Dana-Farber Cancer Institute](https://labs.dana-farber.org/aguirrelab/people/simona-cristea-phd))
