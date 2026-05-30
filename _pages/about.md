@@ -51,14 +51,17 @@ A **multimodal generative framework** that integrates genomic, clinical, and env
 
 ## Spatiotemporal Bayesian Model for Drug Resistance Surveillance
 A Bayesian spatiotemporal ML framework that maps the continuous prevalence of antimalarial drug resistance mutations across Africa from sparse, heterogeneous genomic surveillance data. Provides calibrated uncertainty quantification for early hotspot detection, before clinical efficacy is lost, enabling proactive drug strategy decisions at scale. 
+
 [Preprint](https://pubmed.ncbi.nlm.nih.gov/41480040/) | [Code](https://github.com/mrc-ide/GRFFmap/).
 
 ## Clinical Relevance of Toxicity Metrics in Drug Combination Models
 Systematic evaluation of whether ML-driven synergy scores and toxicity metrics in cancer drug combination models reflect clinically observed adverse interactions. Integrated large-scale synergy datasets with curated clinical toxicity databases, revealing a critical gap: optimizing for synergy alone can inadvertently prioritize toxic combinations. Directly informs safer ML-guided drug discovery pipelines. 
+
 [Paper in Bioinformatics](https://academic.oup.com/bioinformatics/article/42/2/btag007/8426183) | [Code](https://github.com/amw14/toxicity-cancer-drug-combination).
 
 ## Bayesian Mixed-Effects Modeling for Drug-Resistance Forecasting
 Bayesian mixed-effects model estimating the speed of antimalarial drug-resistance spread across Uganda and southeast Asia from sparse genomic surveillance data. Forecasts show combined resistance mutations could reach near fixation within a decade. These findings were cited in the WHO World Malaria Report 2025 and directly inform global drug policy. Demonstrates how calibrated, uncertainty-aware ML can turn incomplete real-world biological data into actionable public health decisions. 
+
 [Paper in Lancet Microbe](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00295-7/fulltext) | [Code](https://github.com/bailey-lab/selmar).
 
 ## Interpretable Evolutionary Modeling of Tumor Progression from scRNA-seq
