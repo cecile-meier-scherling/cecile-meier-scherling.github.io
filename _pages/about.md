@@ -10,10 +10,26 @@ redirect_from:
 
 # About me
 
-I am a PhD candidate in Computational Biology at the [Center for Computational Molecular Biology at Brown](https://ccmb.brown.edu), specializing in the development of artificial intelligence (AI) and Bayesian statistics models for complex, high-dimensional biomedical data. My research integrates omics, clinical, and real-world evidence to address translational challenges such as drug resistance, cancer evolution, and infectious disease dynamics, with a strong emphasis on identifying novel biological mechanisms and predictive biomarkers. I work closely with domain experts to translate biological and clinical questions into robust, interpretable AI systems that support both biological discovery and decision-making across biotechnology, pharmaceutical research, and public-health settings. I am also a [Frontera Computational Science Fellowship Fellow 2025-2026](https://frontera-portal.tacc.utexas.edu/fellowship/). My research has been published in _The Lancet Microbe_ and _Bioinformatics_ and has helped inform World Health Organization efforts to curb antimalarial drug resistance. As of April 2025, I will be a visiting Ph.D. researcher at Oxford, working with [Dr. Seth Flaxman](https://sethrf.com/), and at Imperial College, working with [Dr. Robert Verity](https://profiles.imperial.ac.uk/r.verity).
+I am a PhD candidate at the [Center for Computational Molecular Biology at Brown University](https://ccmb.brown.edu), advised by Dr. Lorin Crawford and Dr. Jeffrey Bailey. My work sits at the intersection of machine learning, Bayesian statistics, and translational biology.
 
+My research focuses on a single through-line: **how do we build AI systems that extract reliable, interpretable signal from the messy, heterogeneous biological data that actually exists in the real world?** That means genomic surveillance data with sparse sampling, multi-omics cohorts with missing modalities, and clinical datasets with confounded outcomes.
 
-## Education
+I work closely with domain experts such as biologists, clinicians, and public health scientists to ensure that models don't just perform well in silico, but **directly improve how decisions are mad**e in biotechnology, pharmaceutical research, and public-health settings.
+
+During the summer 2025 I was a Research Intern at Microsoft Research New England. Currently, I am a Visiting PhD Researcher at Oxford University and Imperial College London, and will be a Computational Biology Intern at Takeda Pharmaceutical (Jun–Aug 2026). I am a [Frontera Computational Science Fellowship Fellow 2025-2026](https://frontera-portal.tacc.utexas.edu/fellowship/) (Texas Advanced Computing Center). My work has been cited in the WHO World Malaria Report 2025.
+
+## Research Interests
+- Interpretable ML
+- Generative models
+- Biomarker discovery
+- Drug discovery
+- Multi-omics integration
+- Clinical decision-making
+- Translational AI
+- Precision medicine
+- Infectious disease
+- 
+## Mentors
 I have over seven years of research training, advised by:
 - Dr. Lorin Crawford ([Microsoft Research](http://www.lcrawlab.com/) and Brown University)
 - Dr. Jeffrey Bailey ([Center for Computational Biology, Brown University](https://baileylab.org/)).
