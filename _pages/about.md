@@ -40,8 +40,6 @@ I have over seven years of research training, advised by:
 - Dr. Franziska Michor ([Department of Data Science, Dana-Farber Cancer Institute](http://michorlab.dfci.harvard.edu/))
 - Dr. Simona Cristea ([Department of Data Science, Dana-Farber Cancer Institute](https://labs.dana-farber.org/aguirrelab/people/simona-cristea-phd))
 
-I graduated from Boston University's College of Engineering with a Bachelor of Science in Biomedical Engineering in 2022 and a concentration in machine learning. There, my senior thesis was awarded the "Societal Impact Award". I started my PhD in Computational Biology at Brown University in 2022, advised by [Dr. Lorin Crawford](http://www.lcrawlab.com/) and [Dr. Jeffrey Bailey](https://baileylab.org/). During the summer of 2025, I was a Research Intern at Microsoft Research New England working with [Dr. Lorin Crawford](http://www.lcrawlab.com/), [Dr. Ashley Conard](https://www.microsoft.com/en-us/research/people/ashleyconard/) and [Dr. Mary L. Gray](https://marylgray.org/).
-
 --- 
 # Key research projects
 
