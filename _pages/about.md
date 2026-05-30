@@ -28,7 +28,7 @@ During the summer 2025 I was a Research Intern at Microsoft Research New England
 - Translational AI
 - Precision medicine
 - Infectious disease
-- 
+
 ## Mentors
 I have over seven years of research training, advised by:
 - Dr. Lorin Crawford ([Microsoft Research](http://www.lcrawlab.com/) and Brown University)
