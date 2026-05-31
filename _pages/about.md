@@ -16,7 +16,7 @@ My research focuses on a single through-line: **how do we build AI systems that 
 
 I work closely with domain experts such as biologists, clinicians, and public health scientists to ensure that models don't just perform well in silico, but **directly improve how decisions are mad**e in biotechnology, pharmaceutical research, and public-health settings.
 
-During the summer 2025 I was a Research Intern at Microsoft Research New England. Currently, I am a Visiting PhD Researcher at Oxford University and Imperial College London, and will be a Computational Biology Intern at Takeda Pharmaceutical (Jun–Aug 2026). I am a [Frontera Computational Science Fellowship Fellow 2025-2026](https://frontera-portal.tacc.utexas.edu/fellowship/) (Texas Advanced Computing Center). My work has been cited in the WHO World Malaria Report 2025.
+During the summer 2025 I was a Research Intern at Microsoft Research New England. Currently, I am a Visiting PhD Researcher at Oxford University and Imperial College London, and will be a Computational Biology Intern at Takeda Pharmaceutical (Jun–Aug 2026). I am a [Frontera Computational Science Fellowship Fellow 2025-2026](https://frontera-portal.tacc.utexas.edu/fellowship/) (University of Texas, Austin). My work has been cited in the WHO World Malaria Report 2025.
 
 ## Research Interests
 - Interpretable ML
