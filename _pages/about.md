@@ -12,11 +12,11 @@ redirect_from:
 
 I am a PhD candidate at the [Center for Computational Molecular Biology at Brown University](https://ccmb.brown.edu), advised by Dr. Lorin Crawford and Dr. Jeffrey Bailey. My work sits at the intersection of machine learning, Bayesian statistics, and translational biology.
 
-My research focuses on a single through-line: **how do we build AI systems that extract reliable, interpretable signal from the messy, heterogeneous biological data that actually exists in the real world?** That means genomic surveillance data with sparse sampling, multi-omics cohorts with missing modalities, and clinical datasets with confounded outcomes.
+My research focuses on a single through-line: **how do we build AI models that extract reliable, interpretable signal from the messy, heterogeneous biological data that actually exists in the real world?** That means genomic surveillance data with sparse sampling, multi-omics cohorts with missing modalities, and clinical datasets with confounded outcomes.
 
-I work closely with domain experts such as biologists, clinicians, and public health scientists to ensure that models don't just perform well in silico, but **directly improve how decisions are mad**e in biotechnology, pharmaceutical research, and public-health settings.
+I work closely with domain experts such as biologists, clinicians, and public health scientists to ensure that models don't just perform well in silico, but **directly improve how decisions are made** in biotechnology, pharmaceutical research, and public-health settings.
 
-During the summer 2025 I was a Research Intern at Microsoft Research New England. Currently, I am a Visiting PhD Researcher at Oxford University and Imperial College London, and will be a Computational Biology Intern at Takeda Pharmaceutical (Jun–Aug 2026). I am a [Frontera Computational Science Fellowship Fellow 2025-2026](https://frontera-portal.tacc.utexas.edu/fellowship/) (University of Texas, Austin). My work has been cited in the WHO World Malaria Report 2025.
+During the summer of 2025, I was a Research Intern at Microsoft Research New England. Currently, I am a Visiting PhD Researcher at Oxford University and Imperial College London, and will be a Computational Biology Intern at Takeda Pharmaceutical (Jun–Aug 2026). I am a [Frontera Computational Science Fellow 2025-2026](https://frontera-portal.tacc.utexas.edu/fellowship/), a NSF-funded Fellowship at the Texas Advanced Computing Center, University of Texas, Austin. My work has been cited in the [WHO World Malaria Report 2025](https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2025).
 
 ## Research Interests
 - Interpretable ML
